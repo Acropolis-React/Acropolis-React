@@ -47,13 +47,10 @@ I work with technologies like React and Next.js, and I’m currently improving m
 <p>
   <img src="https://skillicons.dev/icons?i=vite" />
 </p>
+
 ---
 
 ### 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Acropolis-React&show_icons=true&theme=tokyonight" />
-</p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acropolis-React&&layout=compact&theme=tokyonight" />
