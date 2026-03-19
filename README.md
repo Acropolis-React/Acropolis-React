@@ -2,13 +2,13 @@
 
 ### 👨‍💻 About me
 
-**EN**  
+**[EN]**  
 My name is Andrey, I’m 15 years old.  
 I’m a self-taught frontend developer focused on building modern web applications.  
 
 I work with technologies like React and Next.js, and I’m currently improving my skills and building projects.
 
-**RU**  
+**[RU]**  
 Меня зовут Андрей, мне 15 лет.  
 Я frontend-разработчик самоучка, занимаюсь созданием веб-приложений.  
 
