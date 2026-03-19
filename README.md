@@ -21,7 +21,9 @@ I work with technologies like React and Next.js, and I’m currently improving m
 #### 🚀 Core
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind" />
-  <img src="https://img.shields.io/badge/Zustand-00BFFF?style=for-the-badge&logo=zustand&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 ---
