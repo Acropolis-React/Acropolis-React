@@ -10,7 +10,7 @@ I work with technologies like React and Next.js, and I’m currently improving m
 
 **RU**  
 Меня зовут Андрей, мне 15 лет.  
-Я frontend-разработчик самоучка, занимаюсь созданием современных веб-приложений.  
+Я frontend-разработчик самоучка, занимаюсь созданием веб-приложений.  
 
 Работаю с React и Next.js, сейчас активно прокачиваю навыки и делаю проекты.
 
@@ -19,7 +19,7 @@ I work with technologies like React and Next.js, and I’m currently improving m
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,git,redux,zustand,tanstackquery" />
 </p>
 
 ---
@@ -27,26 +27,11 @@ I work with technologies like React and Next.js, and I’m currently improving m
 ### 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Acropolis-React&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acropolis-React&&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 🚧 Currently
-
-- Improving my frontend skills  
-- Building pet projects  
-- Learning deeper React & Next.js concepts  
-
----
-
-### 📫 Contact
-
-- Telegram: your_username  
-- Email: your@email.com  
 
 ---
