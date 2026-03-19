@@ -20,7 +20,7 @@ I work with technologies like React and Next.js, and I’m currently improving m
 
 #### 🚀 Core
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,redux" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
