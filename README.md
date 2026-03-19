@@ -26,6 +26,7 @@ I work with technologies like React and Next.js, and I’m currently improving m
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
+
 ---
 
 #### ⚙️ Tools
