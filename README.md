@@ -1,4 +1,4 @@
-## Hi there 🚀
+## Hi there 🌟
 
 ### 👨‍💻 About me
 
@@ -18,14 +18,35 @@ I work with technologies like React and Next.js, and I’m currently improving m
 
 ### 🛠 Tech Stack
 
+#### 🚀 Core
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,git,zustand" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,zustand" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
+---
+
+#### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
+</p>
+
+---
+
+#### 📦 Package Manager
+<p>
+  <img src="https://skillicons.dev/icons?i=pnpm" />
+</p>
+
+---
+
+#### ⚡ Build Tool
+<p>
+  <img src="https://skillicons.dev/icons?i=vite" />
+</p>
 ---
 
 ### 📈 GitHub Stats
