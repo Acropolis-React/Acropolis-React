@@ -19,7 +19,11 @@ I work with technologies like React and Next.js, and I’m currently improving m
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,git,redux,zustand,tanstackquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,git,zustand" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
 ---
