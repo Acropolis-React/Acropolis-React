@@ -49,11 +49,3 @@ I work with technologies like React and Next.js, and I’m currently improving m
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acropolis-React&&layout=compact&theme=tokyonight" />
-</p>
-
----
