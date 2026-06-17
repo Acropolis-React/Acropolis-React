@@ -3,7 +3,7 @@
 ### 👨‍💻 About me
 
 **[EN]**  
-My name is Andrey, I’m 15 years old.  
+My name is Andrey, I’m 16 years old.  
 I’m a frontend developer focused on building modern web applications.  
 
 I work with technologies like React and Next.js, and I’m currently improving my skills and building projects.
