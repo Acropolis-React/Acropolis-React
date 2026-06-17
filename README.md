@@ -9,7 +9,7 @@ I’m a frontend developer focused on building modern web applications.
 I work with technologies like React and Next.js, and I’m currently improving my skills and building projects.
 
 **[RU]**  
-Меня зовут Андрей, мне 15 лет.  
+Меня зовут Андрей, мне 16 лет.  
 Я frontend-разработчик, занимаюсь созданием веб-приложений.  
 
 Работаю с React и Next.js, сейчас активно прокачиваю навыки и делаю проекты.
